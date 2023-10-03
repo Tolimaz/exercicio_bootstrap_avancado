@@ -1,0 +1,16 @@
+.navbar {
+    background-image: url('https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014616_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000000;
+    background-position: center;
+    margin: 20px auto;
+}
+
+.card.text-bg-primary img {
+    height: 300px;
+}
+
+#carousel-exemplo {
+    margin-top: 30px;
+}
